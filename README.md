@@ -1,0 +1,2 @@
+# strugab-releases
+Installateurs STRUGAB
